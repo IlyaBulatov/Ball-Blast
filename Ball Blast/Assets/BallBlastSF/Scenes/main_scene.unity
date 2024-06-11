@@ -5070,7 +5070,7 @@ Transform:
   m_GameObject: {fileID: 698073837}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 4.5, z: 0}
+  m_LocalPosition: {x: 0, y: 4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5333,6 +5333,37 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1444148374
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1444148375}
+  m_Layer: 0
+  m_Name: ShootPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1444148375
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1444148374}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.56, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6709098992198350499}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2078136293
 GameObject:
   m_ObjectHideFlags: 0
@@ -10177,11 +10208,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2963996396727934079, guid: 587138f3249cc2a4dbbf3eebd3441bb0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.55
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2963996396727934079, guid: 587138f3249cc2a4dbbf3eebd3441bb0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2963996396727934079, guid: 587138f3249cc2a4dbbf3eebd3441bb0, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10215,11 +10246,48 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4269057485088380724, guid: 587138f3249cc2a4dbbf3eebd3441bb0, type: 3}
+      propertyPath: turret
+      value: 
+      objectReference: {fileID: 6709098992198350500}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 2963996396727934079, guid: 587138f3249cc2a4dbbf3eebd3441bb0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1444148375}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1345466639368805263, guid: 587138f3249cc2a4dbbf3eebd3441bb0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6709098992198350500}
   m_SourcePrefab: {fileID: 100100000, guid: 587138f3249cc2a4dbbf3eebd3441bb0, type: 3}
+--- !u!1 &6709098992198350498 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1345466639368805263, guid: 587138f3249cc2a4dbbf3eebd3441bb0, type: 3}
+  m_PrefabInstance: {fileID: 6709098992198350497}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6709098992198350499 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2963996396727934079, guid: 587138f3249cc2a4dbbf3eebd3441bb0, type: 3}
+  m_PrefabInstance: {fileID: 6709098992198350497}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6709098992198350500
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6709098992198350498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c370679a202bf4586d0dec8717dc5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 834863232011945244, guid: 33f5d01dbdbad744bb8400e7a43d783a, type: 3}
+  shootPoint: {fileID: 1444148375}
+  fireRate: 0.3
+  projectileAmount: 6
+  projectileInterval: 0.2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
