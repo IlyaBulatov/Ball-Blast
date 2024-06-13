@@ -381,7 +381,10 @@
 "Assets/BallBlastSF/Scripts/Cart.cs"
 "Assets/BallBlastSF/Scripts/CartInputControl.cs"
 "Assets/BallBlastSF/Scripts/Destructible.cs"
+"Assets/BallBlastSF/Scripts/LevelBoundary.cs"
+"Assets/BallBlastSF/Scripts/LevelEdge.cs"
 "Assets/BallBlastSF/Scripts/Projectile.cs"
+"Assets/BallBlastSF/Scripts/StoneMovement.cs"
 "Assets/BallBlastSF/Scripts/Turret.cs"
 -langversion:9.0
 
