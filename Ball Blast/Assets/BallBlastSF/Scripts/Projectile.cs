@@ -6,7 +6,8 @@ public class Projectile : MonoBehaviour
 {
     [SerializeField] private float speed;
     [SerializeField] private float lifeTime;
-    [SerializeField] private int damage;
+
+    private int damage;
 
     private void Start()
     {
@@ -22,11 +23,16 @@ public class Projectile : MonoBehaviour
     {
         Destructible destructible = collision.transform.root.GetComponent<Destructible>();
 
-        if(destructible != null)
+        if (destructible != null)
         {
             destructible.ApplyDamage(damage);
         }
 
         Destroy(gameObject);
+    }
+
+    public void SetDamage(int damage)
+    {
+        this.damage = damage;
     }
 }

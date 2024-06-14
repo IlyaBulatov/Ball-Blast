@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Cart : MonoBehaviour
 {
@@ -11,6 +12,8 @@ public class Cart : MonoBehaviour
     [Header("Wheels")]
     [SerializeField] private Transform[] wheels;
     [SerializeField] private float wheelRadius;
+
+    [HideInInspector] public UnityEvent CollisionStone;
 
     private Vector3 movementTarget;
     private float deltaMovement;
@@ -25,6 +28,16 @@ public class Cart : MonoBehaviour
         Move();
 
         RotateWheel();
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        Stone stone = collision.transform.root.GetComponent<Stone>();
+
+        if(stone != null)
+        {
+            CollisionStone.Invoke();
+        }
     }
     private void Move()
     {

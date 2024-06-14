@@ -383,8 +383,12 @@
 "Assets/BallBlastSF/Scripts/Destructible.cs"
 "Assets/BallBlastSF/Scripts/LevelBoundary.cs"
 "Assets/BallBlastSF/Scripts/LevelEdge.cs"
+"Assets/BallBlastSF/Scripts/LevelState.cs"
 "Assets/BallBlastSF/Scripts/Projectile.cs"
+"Assets/BallBlastSF/Scripts/Stone.cs"
+"Assets/BallBlastSF/Scripts/StoneHitpointsText.cs"
 "Assets/BallBlastSF/Scripts/StoneMovement.cs"
+"Assets/BallBlastSF/Scripts/StoneSpawner.cs"
 "Assets/BallBlastSF/Scripts/Turret.cs"
 -langversion:9.0
 
