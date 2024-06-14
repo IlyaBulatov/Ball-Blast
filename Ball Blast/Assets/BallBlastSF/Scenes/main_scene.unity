@@ -10906,9 +10906,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 834863232011945244, guid: 33f5d01dbdbad744bb8400e7a43d783a, type: 3}
   shootPoint: {fileID: 1444148375}
-  fireRate: 0.01
-  damage: 10
-  projectileAmount: 5
+  fireRate: 0.2
+  damage: 2
+  projectileAmount: 3
   projectileInterval: 0.2
 --- !u!114 &6709098992198350501 stripped
 MonoBehaviour:

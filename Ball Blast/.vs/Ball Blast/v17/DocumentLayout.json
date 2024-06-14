@@ -7,32 +7,32 @@
       "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|c:\\users\\tukan\\github\\ball-blast\\ball blast\\assets\\ballblastsf\\scripts\\stonespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\stonespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|c:\\users\\tukan\\github\\ball-blast\\ball blast\\assets\\ballblastsf\\scripts\\levelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\levelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|c:\\users\\tukan\\github\\ball-blast\\ball blast\\assets\\ballblastsf\\scripts\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\assets\\ballblastsf\\scripts\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|c:\\users\\tukan\\github\\ball-blast\\ball blast\\assets\\ballblastsf\\scripts\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\turret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\assets\\ballblastsf\\scripts\\stonespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\stonespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|c:\\users\\tukan\\github\\ball-blast\\ball blast\\assets\\ballblastsf\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\assets\\ballblastsf\\scripts\\stonemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\stonemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\assets\\ballblastsf\\scripts\\leveledge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\leveledge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\assets\\ballblastsf\\scripts\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\destructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\assets\\ballblastsf\\scripts\\stonehitpointstext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\stonehitpointstext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\assets\\ballblastsf\\scripts\\stonemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\stonemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\assets\\ballblastsf\\scripts\\levelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB597A5E-5A1B-0249-A4CC-2B5041FFDF81}|Assembly-CSharp.csproj|solutionrelative:assets\\ballblastsf\\scripts\\levelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,50 +42,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Projectile.cs",
-              "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\Projectile.cs",
-              "ToolTip": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Projectile.cs",
-              "RelativeToolTip": "Assets\\BallBlastSF\\Scripts\\Projectile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:15:45.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Turret.cs",
-              "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Turret.cs",
-              "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\Turret.cs",
-              "ToolTip": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Turret.cs",
-              "RelativeToolTip": "Assets\\BallBlastSF\\Scripts\\Turret.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Title": "LevelEdge.cs",
+              "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\LevelEdge.cs",
+              "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\LevelEdge.cs",
+              "ToolTip": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\LevelEdge.cs",
+              "RelativeToolTip": "Assets\\BallBlastSF\\Scripts\\LevelEdge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:11:36.256Z",
+              "WhenOpened": "2024-06-14T14:21:33.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "StoneMovement.cs",
+              "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\StoneMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\StoneMovement.cs",
+              "ToolTip": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\StoneMovement.cs",
+              "RelativeToolTip": "Assets\\BallBlastSF\\Scripts\\StoneMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:15:27.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Destructible.cs",
+              "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Destructible.cs",
+              "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\Destructible.cs",
+              "ToolTip": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Destructible.cs",
+              "RelativeToolTip": "Assets\\BallBlastSF\\Scripts\\Destructible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:56:30.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StoneSpawner.cs",
               "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\StoneSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\StoneSpawner.cs",
               "ToolTip": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\StoneSpawner.cs",
               "RelativeToolTip": "Assets\\BallBlastSF\\Scripts\\StoneSpawner.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwD4AAAAkAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwD4AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T11:05:49.611Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Cart.cs",
               "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\Cart.cs",
@@ -98,7 +110,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Stone.cs",
+              "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Stone.cs",
+              "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\Stone.cs",
+              "ToolTip": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Stone.cs",
+              "RelativeToolTip": "Assets\\BallBlastSF\\Scripts\\Stone.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowDAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:26:02.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "LevelState.cs",
               "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\LevelState.cs",
               "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\LevelState.cs",
@@ -106,8 +131,7 @@
               "RelativeToolTip": "Assets\\BallBlastSF\\Scripts\\LevelState.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAA1wCgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T11:52:27.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T11:52:27.953Z"
             },
             {
               "$type": "Document",
@@ -120,31 +144,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T10:09:50.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Stone.cs",
-              "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Stone.cs",
-              "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\Stone.cs",
-              "ToolTip": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\Stone.cs",
-              "RelativeToolTip": "Assets\\BallBlastSF\\Scripts\\Stone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:26:02.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StoneMovement.cs",
-              "DocumentMoniker": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\StoneMovement.cs",
-              "RelativeDocumentMoniker": "Assets\\BallBlastSF\\Scripts\\StoneMovement.cs",
-              "ToolTip": "C:\\Users\\tukan\\GitHub\\Ball-Blast\\Ball Blast\\Assets\\BallBlastSF\\Scripts\\StoneMovement.cs",
-              "RelativeToolTip": "Assets\\BallBlastSF\\Scripts\\StoneMovement.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAkwEMAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:58:43.835Z"
             }
           ]
         }

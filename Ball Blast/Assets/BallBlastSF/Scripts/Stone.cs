@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(StoneMovement))]
@@ -49,6 +47,7 @@ public class Stone : Destructible
     private void OnStoneDestroyed()
     {
         if (size != Size.Small) SpawnStones();
+
         Destroy(gameObject);
     }
 
