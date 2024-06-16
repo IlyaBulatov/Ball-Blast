@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2641759609308587623}
   - component: {fileID: 1014085771208607355}
   - component: {fileID: 4269057485088380724}
+  - component: {fileID: 3090671866432810047}
   m_Layer: 0
   m_Name: Cart
   m_TagString: Untagged
@@ -34,6 +35,7 @@ Transform:
   m_Children:
   - {fileID: 6372370456667888357}
   - {fileID: 3323728665691630151}
+  - {fileID: 3950756665638260272}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &2641759609308587623
@@ -75,12 +77,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c603582c4580add469e90badd9afba41, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  movementSpeed: 50
+  movementSpeed: 55
   vehicleWidth: 1
   wheels:
   - {fileID: 6853735403918636514}
   - {fileID: 842085183465520267}
   wheelRadius: 0.194
+  CollisionStone:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!114 &4269057485088380724
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -94,6 +99,25 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cart: {fileID: 1014085771208607355}
+  turret: {fileID: 3090671866432810047}
+--- !u!114 &3090671866432810047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1345466639368805263}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c370679a202bf4586d0dec8717dc5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projectilePrefab: {fileID: 834863232011945244, guid: 33f5d01dbdbad744bb8400e7a43d783a, type: 3}
+  shootPoint: {fileID: 3950756665638260272}
+  fireRate: 0.2
+  damage: 2
+  projectileAmount: 3
+  projectileInterval: 0.2
 --- !u!1 &1508029443975023922
 GameObject:
   m_ObjectHideFlags: 0
@@ -126,6 +150,37 @@ Transform:
   - {fileID: 8786316256883789055}
   - {fileID: 6853735403918636514}
   - {fileID: 842085183465520267}
+  m_Father: {fileID: 2963996396727934079}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3973313388755421969
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3950756665638260272}
+  m_Layer: 0
+  m_Name: ShootPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3950756665638260272
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3973313388755421969}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0.56, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
   m_Father: {fileID: 2963996396727934079}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &4444214724014704812
